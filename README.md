@@ -25,42 +25,38 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-
+![alt text](<Screenshot 2026-09-04 210553.png>)
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-
-
+![alt text](<Screenshot 2026-09-04 210616.png>)
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](<Screenshot 2026-09-03 141222.png>)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-
+![alt text](<Screenshot 2026-09-03 141539.png>)
 Copy the file hello.txt into the file hello1.txt
 
-## COMMAND AND OUTPUT
-
-Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](<Screenshot 2026-09-03 142041.png>)
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-
+![alt text](<Screenshot 2026-09-03 142145.png>)
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-
+![alt text](<Screenshot 2026-09-03 142309.png>)
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](<Screenshot 2026-09-03 143317.png>)
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
@@ -69,8 +65,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-
-
+![alt text](<Screenshot 2026-09-03 143721.png>)
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -84,7 +79,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+![alt text](<Screenshot 2026-09-03 143840.png>)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -93,7 +88,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-
+![alt text](<Screenshot 2026-09-03 144029.png>)
 
 
 
@@ -106,6 +101,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+![alt text](<Screenshot 2026-09-03 144129.png>)
 
 
 Write a batch script that displays a simple menu with three options:
@@ -117,7 +113,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-
+![alt text](<Screenshot 2026-09-04 203338.png>)
 
 # RESULT:
 The commands/batch files are executed successfully.
